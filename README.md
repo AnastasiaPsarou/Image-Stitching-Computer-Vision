@@ -1,5 +1,3 @@
-Anastasia Psarou - 2860
-
 In this project Image Stitching is being reviewd with the use of 2, 3 and 4 images. 
 
 * The common attributes between the images are detected with the use of SIFT algorith.
